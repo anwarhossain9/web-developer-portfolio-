@@ -45,3 +45,19 @@ nav a {
 
     text-decoration: none;
 }
+
+.header{
+    background-color: antiquewhite;
+}
+/* header background */
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-picture{
+
+
+    width: 500px;height: 400px;
+}
